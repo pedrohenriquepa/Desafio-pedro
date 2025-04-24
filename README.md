@@ -81,9 +81,9 @@ CREATE TABLE dados (
 
 - Salário (máscara brasileira, ex.: 1.234,56)
 
-- Anexo (upload de pdf/jpg/png, ≤ 2 MB)
+- Anexo (upload de pdf/jpg/png, ≤ 10 MB)
 
-- #### *Ao submeter, exiba na mesma tela todos os registros (cards, tabela, gráfico, etc.)*
+- #### *Ao submeter, exiba todos os registros (cards, tabela, gráfico, etc.)*
 
 - #### *Cada registro com botões Editar e Excluir (com confirmação)*
 
@@ -96,7 +96,7 @@ CREATE TABLE dados (
 
 - Delete: DB::delete() com confirmação no front-end
 
-#### **Validações:** ##### *Caso queira, adicione validações de frontend e backend*
+#### **Validações:** #### *Caso queira, adicione validações de frontend e backend*
 
 - Campos obrigatórios: nome, idade, cep, cidade, estado, rua, bairro, sexo
 
@@ -109,7 +109,16 @@ CREATE TABLE dados (
 - Anexo: extensões permitidas (.pdf, .jpg, .png), tamanho máximo 10 MB
 
 
-## Este desafio serve como uma avaliação e complemento da entrevista!
+## Este desafio serve como uma avaliação e complemento da entrevista, caso sinta dificuldade em algum passo ou no desenvolvimento do Desafio com o frontend e backend, deixe seu feedback!
+
+## Caso não consiga concluir todos os passos, não deixe de enviar o projeto, iremos avaliar tudo o que foi feito por você!
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" width="32" height="32" alt="Carregando..." />
+  <strong>Não se esqueça de salvar o seu projeto no seu GitHub em uma pasta pública para podermos avaliar seu desempenho!</strong>
+  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" width="32" height="32" alt="Carregando..." />
+</p>
+
 
 ## 🍀 Boa sorte e bons códigos!
 — Time Avelar
