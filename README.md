@@ -102,6 +102,8 @@ CREATE TABLE dados (
 
 - Idade: inteiro positivo
 
+- Possui Ensino médio: Checkbox
+
 - CEP: formato 99.999-999
 
 - Salário: numérico (converta vírgula para ponto antes de salvar 3.000,00)
@@ -115,7 +117,7 @@ CREATE TABLE dados (
 
 <p align="center">
   <img src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" width="32" height="32" alt="Carregando..." />
-  <strong>Não se esqueça de salvar o seu projeto no seu GitHub em uma pasta pública para podermos avaliar seu desempenho!</strong>
+  <strong>Não se esqueça de salvar o seu projeto no seu GitHub em uma pasta pública!</strong>
   <img src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" width="32" height="32" alt="Carregando..." />
 </p>
 
