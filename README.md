@@ -69,7 +69,7 @@ CREATE TABLE dados (
 ```
 ## 🎯 Objetivo do Desafio
 ## **Front-end**
-### Página única com Blade + HTML/CSS/Bootstrap (ou framework de sua escolha)
+### Página única com Blade + HTML/CSS/Bootstrap/JavaScript, seja criativo e não se prenda em visuais genéricos, queremos ver seu potencial!!
 
 #### *Formulário com:*
 
@@ -87,7 +87,7 @@ CREATE TABLE dados (
 
 - #### *Cada registro com botões Editar e Excluir (com confirmação)*
 
-## **Back-end (CRUD sem Models/Migrations)**
+## **Back-end (CRUD sem Models/Migrations), sinta-se a vontade para usar models e migrations caso prefira, não se prenda aos comandos estipulados abaixo, nos mostre como você desenvolve um CRUD bem organizado e bem estruturado**
 - Create: DB::insert() com SQL cru
 
 - Read: DB::select() ordenado por id DESC
@@ -96,7 +96,7 @@ CREATE TABLE dados (
 
 - Delete: DB::delete() com confirmação no front-end
 
-#### **Validações:**
+#### **Validações:** ##### *Caso queira, adicione validações de frontend e backend*
 
 - Campos obrigatórios: nome, idade, cep, cidade, estado, rua, bairro, sexo
 
@@ -109,3 +109,7 @@ CREATE TABLE dados (
 - Anexo: extensões permitidas (.pdf, .jpg, .png), tamanho máximo 10 MB
 
 
+## Este desafio serve como uma avaliação e complemento da entrevista!
+
+## 🍀 Boa sorte e bons códigos!
+— Time Avelar
